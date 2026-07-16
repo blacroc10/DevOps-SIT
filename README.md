@@ -1,4 +1,4 @@
-# DevOps Lab (Main Branch Update)
+# Awesome DevOps Lab (Resolved Conflict)
 
 DevOps laboratory assignments completed by Shubhankar Sarangi (PRN: 23070122206).
 
