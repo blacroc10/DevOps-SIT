@@ -1,4 +1,4 @@
-# DevOps Lab
+# Awesome DevOps Lab (Feature Branch Update)
 
 DevOps laboratory assignments completed by Shubhankar Sarangi (PRN: 23070122206).
 
