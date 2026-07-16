@@ -1,0 +1,16 @@
+# Reference documents contain another student's personal information and are
+# intentionally excluded from the public repository.
+/devopslab merged.docx
+/format.docx
+/Lab Hand-Book.pdf
+/desktop.ini
+/logo-3.png
+
+# Local and generated files
+/.venv/
+/__pycache__/
+*.pyc
+/.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
