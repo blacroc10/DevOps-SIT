@@ -11,7 +11,7 @@ provider "local" {}
 
 resource "local_file" "devops_lab" {
   filename = "${path.module}/devops_output.txt"
-  content  = "DevOps Infrastructure created using Terraform by Shubhankar Sarangi."
+  content  = "DevOps Infrastructure updated and managed using Terraform by Shubhankar Sarangi."
 }
 
 output "created_file" {
