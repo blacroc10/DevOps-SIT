@@ -11,12 +11,6 @@ as code.
 The repository now includes a structured workflow for all fifteen laboratory
 assignments.
 
-## Lab Record
-
-- [Final Word document](./DevOps%20Lab%20Record%20-%20Shubhankar%20Sarangi.docx)
-- [Assignment screenshots](./screenshots)
-- [Report generator](./tools/generate_report.py)
-
 ## Implementations
 
 - `my-flask-app/` - Dockerized Flask application
